@@ -1,0 +1,26 @@
+[
+	{
+		  "name": "Blahaj empire",
+		  "leaderName": "Plert",
+		  "adjective": ["Blahajes"],
+		  "startBias": ["Coast"],
+		  "preferredVictoryType": "Domination",
+		  
+		  "startIntroPart1": "With the power of the greatest Blahaj conqure everyone. All of the world belongs to shorks",
+		  "startIntroPart2": "Remember, you have no alies only partners wich you can attack whenever you want if this will help to bring the glory for our nation nation ~UwU",
+		  "declaringWar": "After the war we will cuddle ~UwU",
+		  "attacked": "Why would you do that ~UwU",
+		  "defeated": "We can still cuddle, right? ~UwU",
+		  "introduction": "Hi ~UwU",
+		  "neutralHello": "Hi ~OwO",
+		  "hateHello": "Hi ~Ew",
+		  "tradeRequest": "You can trade with us ~UwU",
+		  "outerColor": [231,110,194],
+		  "innerColor": [25,0,151],
+			  "favoredReligion": "Christianity",
+		  "uniqueName": "Navy go brrrr",
+		  "uniques": ["[+1] Range <for [Ranged Water] units>","[-33]% Strength <for [Ranged Water] units> <when attacking>"],
+		  "cities": ["Sharkopolis","Ikealand","Plertland","Shork cave","Temple of Blahaj","Cuteland","Pillar of destruction","UwU-land"]
+	  }
+  ]
+  

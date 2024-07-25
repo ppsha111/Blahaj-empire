@@ -1,0 +1,33 @@
+[
+    { 
+		"name": "Ikea",
+		"replaces": "Workshop",
+		"requiredTech": "Metal Casting",
+		"maintenance": 2,
+		// "happiness": 1,
+		"food": 1,
+        "production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"uniques": ["[+10]% [Production]"],
+		"uniqueTo": "Blahaj empire",
+		"civilopediaText": [
+			{
+				"text": "Who doesn't like IKEA. The great meatballs and Blahajes from it make everyone happier."
+			}
+		]
+	},
+    { 
+		"name": "Military port",
+		"replaces": "Seaport",
+		"requiredTech": "Navigation",
+		"maintenance": 3,
+		"specialistSlots": {"Engineer": 1},
+		"uniques": ["[+15]% Production when constructing [Water] units [in this city]","All newly-trained [Water] units [in this city] receive the [Mobility] promotion", "Must be next to [Coast]"],
+		"uniqueTo": "Blahaj empire",
+		"civilopediaText": [
+			{
+				"text": "Sharks need a strong navy to conqure the world"
+			}
+		]
+	}
+]
